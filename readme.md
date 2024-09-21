@@ -7,40 +7,25 @@
 A Collection of unique design elementor widgets for Elementor.
 Within few minutes, you can add unique image hover effects to your website – easily!
 
-
-Details
- 
-Reviews
- 
-Installation
- 
-Development
-Support
-Description
-A Collection of unique design elementor widgets for Elementor.
-Within few minutes, you can add unique image hover effects to your website – easily!
-
-Amedea requires core plugin to work properly.
-
 Features
-Elementor Widgets ready
-Smooth animations
-Videos are supported
-Fully Responsible
-Easy to use
-WPML Supported
-Clean, minimal and modern design
-Powered by HTML5/CSS3
-Optimized for mobile devices
-Optimized for touchable devices
-Installation guide and detailed documentation included
-And more…
++ Elementor Widgets ready
++ Smooth animations
++ Videos are supported
++ Fully Responsible
++ Easy to use
++ WPML Supported
++ Clean, minimal and modern design
++ Powered by HTML5/CSS3
++ Optimized for mobile devices
++ Optimized for touchable devices
++ Installation guide and detailed documentation included
++ And more…
 
 
-Animated Hover Menu
+==Animated Hover Menu==
 A couple of ideas for creative menu/listing items come with unique hover animated images for Elementor. The idea is to navigate a item-based listing with special effects on-hovered, it shows an image related to the item as preview.
 
-Animated Intro
+==Animated Intro==
 An interesting intro animation with image/video created with unique combination of motion, each ending in a circular look.
 
 Diagonal Media
