@@ -23,31 +23,40 @@ Features
 
 
 ==Animated Hover Menu==
+
 A couple of ideas for creative menu/listing items come with unique hover animated images for Elementor. The idea is to navigate a item-based listing with special effects on-hovered, it shows an image related to the item as preview.
 
 ==Animated Intro==
+
 An interesting intro animation with image/video created with unique combination of motion, each ending in a circular look.
 
-Diagonal Media
+==Diagonal Media==
+
 Animated slideshow for diagonal medias, tilted thumbnails and large titles those animate smoothly when navigating.
 
-Grid Hover Motion
+==Grid Hover Motion==
+
 On-hover motion effects for image grids areas.
 
-Holiday Season
+==Holiday Season==
+
 Animated, illustrated, parallax powered countdown element for Halloween.
 
-Image Hover
+==Image Hover==
+
 A collection of easy-to-use 4 main different category of total 34+ image hover elements ready for Elementor.
 
-Media Slider
+==Media Slider==
+
 A collection of unique ideas for slideshow animations on fullscreen videos/images.
 
-On-Scroll Animated Grids
+==On-Scroll Animated Grids==
+
 Creative animated ideas for on-scroll effects using grids.
 
-On-Scroll Morph Effects
+==On-Scroll Morph Effects==
+
 A collection of easy-to-use the total 7+ image tilt/hover elements triggered by on-scroll ready for Elementor.
 
-Push Gallery
+==Push Gallery==
 Animated slideshow gallery for the grid items upon clicking the smooth pushing effect takes a place.
