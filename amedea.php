@@ -4,7 +4,7 @@
  * Description: Unique Collection of Elementor Elements
  * Plugin URI: https://amedea.pro
  * Author: Amedea
- * Version: 0.2.1
+ * Version: 0.0.9
  * Author URI: https://amedea.pro
  *
  * Text Domain: amedea
